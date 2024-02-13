@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 discord = blokyomb
 <br> 
-15
+14
   <hr>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blockybombDEV&theme=dark&hide_border=true&include_all_commits=true&count_private=false">
