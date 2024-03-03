@@ -8,7 +8,7 @@ Currently learning Java and Kotlin
 <br>
 📫
 <br>
-discord = blokyomb
+discord = not1ris
 <br>
 🎉
 <br> 
