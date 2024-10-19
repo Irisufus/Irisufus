@@ -12,10 +12,10 @@ Currently learning: Java and Kotlin
 <br>
   <hr>
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blockybombDEV&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true">
+  <img src = "https://stats-cblp-git-main-blockybombdevs-projects.vercel.app/api/top-langs/?username=blockybombDEV&theme=transparent&layout=compact&hide_border=true&include_all_commits=true&count_private=true&hide_progress=false">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=blockybombDEV&theme=transparent&show_icons=true&hide_border=false&count_private=true&hide=issues,stars">
+  <img src = "https://stats-cblp-git-main-blockybombdevs-projects.vercel.app/api?username=blockybombDEV&theme=transparent&show_icons=true&hide_border=true&count_private=true&hide=issues,stars">
   <br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=blockybombDEV&theme=transparent&hide_border=false">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=blockybombDEV&theme=transparent&hide_border=true">
   <br>
 </a>
