@@ -8,7 +8,7 @@ Languages I know: Skript and Javascript
 <br>
 Currently learning: Java and Kotlin
 <br>
-<img src = "https://lanyard.cnrad.dev/api/1115068990381887490/?idleMessage=Chilling&?animated=true">
+<img src = "https://lanyard.kyrie25.dev/api/1115068990381887490?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.7)%20blur(3px)">
 <br>
   <hr>
 <p align="center">
