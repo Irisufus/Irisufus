@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
 </p>
   <hr>
 <p align="center">
-  <img src = "https://stats-cblp-git-main-blockybombdevs-projects.vercel.app/api/top-langs/?username=Irisufus&theme=transparent&layout=compact&hide_border=true&include_all_commits=true&count_private=true&hide_progress=false">
+  <img src = "https://stats-one-nu.vercel.app/api/top-langs/?username=Irisufus&theme=transparent&layout=compact&hide_border=true&include_all_commits=true&count_private=true&hide_progress=false">
   <br>
-  <img src = "https://stats-cblp-git-main-blockybombdevs-projects.vercel.app/api?username=Irisufus&theme=transparent&show_icons=true&hide_border=true&count_private=true&hide=issues,stars">
+  <img src = "https://stats-one-nu.vercel.app/api?username=Irisufus&theme=transparent&show_icons=true&hide_border=true&count_private=true&hide=issues,stars">
   <br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Irisufus&theme=transparent&hide_border=true">
+  <img src = "https://readme.mebeiris.me?user=Irisufus&theme=transparent&hide_border=true">
   <br>
 </p>
