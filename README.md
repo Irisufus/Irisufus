@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <br>
 <br>
-<img src = "https://lanyard.kyrie25.dev/api/1115068990381887490?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.7)%20blur(3px)">
+<img src = "https://lanyard.kyrie25.dev/api/1115068990381887490?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.7)%20blur(3px)&showDisplayName=true&idleMessage=:(">
 <br>
 </p>
   <hr>
