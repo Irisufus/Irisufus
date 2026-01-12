@@ -3,7 +3,7 @@ BlockybombDEV/BlockybombDEV is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  Hiris I'm Iris, a self-taught developer from Belgium since 2022.
+  Hi I'm Iris, a self-taught developer from Belgium since 2022.
   <br>
   I mainly work on Minecraft related projects but I am willing to try something else!
   <br>
